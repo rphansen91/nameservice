@@ -19,7 +19,7 @@ import (
 	auth "github.com/cosmos/cosmos-sdk/x/auth/client/rest"
 	bankcmd "github.com/cosmos/cosmos-sdk/x/bank/client/cli"
 	bank "github.com/cosmos/cosmos-sdk/x/bank/client/rest"
-	app "github.com/cosmos/sdk-application-tutorial"
+	app "github.com/cosmos/rphansen91/nameservice"
 	nsclient "github.com/rphansen91/nameservice/x/nameservice/client"
 	nsrest "github.com/rphansen91/nameservice/x/nameservice/client/rest"
 )
