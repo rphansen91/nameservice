@@ -1,7 +1,5 @@
 package app
 
-package app
-
 import (
 	"encoding/json"
 
