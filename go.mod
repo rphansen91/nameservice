@@ -1,4 +1,4 @@
-module sdk-application-tutorial
+module nameservice
 
 go 1.12
 
